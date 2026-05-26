@@ -8,3 +8,5 @@
 
 > Added function and stash, then deleted it
 
+> Added deletable branch
+
