@@ -6,3 +6,5 @@
 
 ## I'm in the feature branch
 
+> Added function and stash, then deleted it
+
